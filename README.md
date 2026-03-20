@@ -18,7 +18,6 @@ Users can:
 - analyze the trend with a moving average
 - interpret performance instantly through conditional formatting
 
-This project was built as a standalone portfolio piece to demonstrate practical Power BI skills relevant for Data Analyst, BI Developer, and Analytics Engineer roles.
 
 ---
 
